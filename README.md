@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Juan Camilo 👋
 
-<!--
-**JuanCamilo1979/JuanCamilo1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like solving problems, writing code, and learning how things work under the hood.
+Most of my time goes into algorithms, competitive programming, and improving my C++ skills.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Into competitive programming and algorithmic thinking  
+- 🧠 I enjoy breaking down tricky problems and optimizing solutions  
+- 📚 Currently learning more about graphs, DP, and performance-focused code  
+- 🛠️ I like clean, simple, and efficient implementations  
+
+## Tech & tools
+
+- **Languages:** C++, Python, JavaScript  
+- **Tools:** Git, Linux, VS Code  
+- **Interests:** Algorithms, Data Structures, Problem Solving  
+
+## Projects & stuff I build
+
+- 🧩 **Algorithmic problem solutions** (mostly C++)  
+- 🌳 **Tree / graph-based game solvers**  
+- 🧪 **Small experiments** to test ideas and learn new concepts  
+
+## What I'm working on now
+
+- Getting better and faster at competitive programming  
+- Studying advanced algorithms and common contest patterns  
+
+## Find me here
+
+- GitHub: https://github.com/JuanCamilo1979
