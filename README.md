@@ -1,6 +1,7 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=280&section=header&text=Hello%2C%20I'm%20Juan%20Camilo&fontSize=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60)
-
 ## Hi there 👋 Welcome!
+
+
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=280&section=header&text=Hello%2C%20I'm%20Juan%20Camilo&fontSize=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60)
 
 Hello! 👋 My name is **Juan Camilo**.  
 I’m passionate about building software, learning deeply how things work, and improving through practice and problem solving.
