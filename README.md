@@ -1,41 +1,37 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juan%20Camilo&fontSize=60)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=280&section=header&text=Hello%2C%20I'm%20Juan%20Camilo&fontSize=50&fontAlignY=40&desc=Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;React+%7C+C%2B%2B+%7C+TypeScript)](https://git.io/typing-svg)
+## Hi there 👋 Welcome!
 
-# Hi there 👋 I'm Juan Camilo
+Hello! 👋 My name is **Juan Camilo**.  
+I’m passionate about building software, learning deeply how things work, and improving through practice and problem solving.
 
-🎯 Software Developer | 💻 Frontend / Backend | 🚀 Lifelong Learner
+I’m focused on **software development**, with strong interest in **clean code, algorithms, and modern web technologies**.  
+Currently learning **React, TypeScript**, and strengthening my **C++ fundamentals**.
 
----
+### Skills
+Problem Solving | Software Development | Frontend Foundations | Version Control
 
-## 👨‍💻 About me
-- 📍 Based in Colombia  
-- 🎓 Interested in software engineering & problem solving  
-- 🌱 Currently learning: React, TypeScript, system design  
-- 🧠 I like building things and understanding *why* they work  
-
----
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+### Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
----
+- 🔭 I’m currently working on improving my core development skills  
+- 🌱 I’m currently learning React and TypeScript  
+- 💬 How to reach me: GitHub / LinkedIn  
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanCamilo1979&show_icons=true)
+<p align="left">
+  <a href="https://github.com/JuanCamilo1979">
+    <img src="https://img.icons8.com/ios-filled/40/000000/github.png"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png"/>
+  </a>
+</p>
 
----
-
-## 🌐 Connect with me
-- 💼 LinkedIn: https://linkedin.com/in/yourname  
-- 🌍 Portfolio: https://your-site.com  
-
----
-
-✨ *Fun fact:* I enjoy optimizing code more than writing it the first time.
+Fun fact: I enjoy refactoring code more than writing it the first time 
