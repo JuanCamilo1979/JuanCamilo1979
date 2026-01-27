@@ -1,3 +1,7 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Juan%20Camilo&fontSize=60)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;React+%7C+C%2B%2B+%7C+TypeScript)](https://git.io/typing-svg)
+
 # Hi there 👋 I'm Juan Camilo
 
 🎯 Software Developer | 💻 Frontend / Backend | 🚀 Lifelong Learner
